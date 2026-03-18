@@ -4,4 +4,5 @@ cloud + AI
 2) organising data
 3) merging large files
 4)buiding model 
-5) 
+5) selecting model and
+6) 
